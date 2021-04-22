@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardHost\main.cpp(97,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardHost\main.cpp(139,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardHost\main.cpp(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardHost\main.cpp(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardHost\main.cpp(362): warning C4405: Int: идентификатор является зарезервированным словом
+  ProgrammingKeyboardHost.vcxproj -> D:\Программирование\ProgrammingKeyboardAPI\Debug\ProgrammingKeyboardHost.exe

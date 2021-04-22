@@ -1,0 +1,8 @@
+﻿  Serial.cpp
+  dllmain.cpp
+  ProgrammingKeyboardAPI.cpp
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardAPI\ProgrammingKeyboardAPI.cpp(20,24): warning C4101: cbToWrite: неиспользованная локальная переменная
+D:\Программирование\ProgrammingKeyboardAPI\ProgrammingKeyboardAPI\ProgrammingKeyboardAPI.cpp(122,24): warning C4101: cbToWrite: неиспользованная локальная переменная
+  Создание кода...
+     Создается библиотека D:\Программирование\ProgrammingKeyboardAPI\bin\ProgrammingKeyboardAPI.lib и объект D:\Программирование\ProgrammingKeyboardAPI\bin\ProgrammingKeyboardAPI.exp
+  ProgrammingKeyboardAPI.vcxproj -> D:\Программирование\ProgrammingKeyboardAPI\bin\ProgrammingKeyboardAPI.dll
